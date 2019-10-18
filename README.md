@@ -1,4 +1,5 @@
 # practice
+
 '''javascript
 function fancyAlert(arg) {
   if(arg) {
@@ -6,4 +7,5 @@ function fancyAlert(arg) {
   }
 }
 '''
+
 # practice
