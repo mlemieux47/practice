@@ -1,11 +1,11 @@
 # practice
 
-'''javascript
+```javascript
 function fancyAlert(arg) {
   if(arg) {
     $.facebox({div:'#foo'})
   }
 }
-'''
+```
 
 # practice
